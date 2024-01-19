@@ -487,6 +487,7 @@ hr {
 }
 
 .email {
+  overflow:auto;
   font-size: 24pt;
   margin-top: 1rem;
 }
@@ -494,7 +495,6 @@ hr {
 .tele {
   font-size: 24pt;
   margin-bottom: 0.5rem;
-  /* margin-bottom: 15px; */
 }
 
 .dashlist {
